@@ -1,0 +1,15 @@
+
+
+================== October 25, 2015 ========================
+
+
+# Lecture DB
+
+1. dbInfo : Done
+
+
+2. studentInfo
+
+
+3. attendance
+

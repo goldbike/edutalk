@@ -1,0 +1,467 @@
+﻿KakaoTalk Chats 2D 게임 프로그래밍 주 (A) 1 반
+ (42)
+Date Saved : 4:51PM, October 9, 2015
+
+
+12:09PM, September 2, 2015
+12:09PM, September 2, 2015, 신영준 invited Mr.Lee 대현.
+12:09PM, September 2, 2015, 신영준 : 단톡방입니다.
+12:11PM, September 2, 2015, you : 환영
+12:11PM, September 2, 2015, 김기태 : 출석
+12:11PM, September 2, 2015, 김은기 : 촐석
+12:11PM, September 2, 2015, 조학현 : 출석
+12:11PM, September 2, 2015, 이진수 : 출석
+12:11PM, September 2, 2015, 임동현 : 출석
+12:11PM, September 2, 2015, 희승 : 출석
+12:11PM, September 2, 2015, 전상훈 : 출석
+12:11PM, September 2, 2015, 이제선 : 출석
+12:11PM, September 2, 2015, 김진근 : 출석
+12:11PM, September 2, 2015, 김대용 : 출석
+12:11PM, September 2, 2015, 김재관 : 출석
+12:11PM, September 2, 2015, 정우혁 : 출석
+12:11PM, September 2, 2015, 권기춘 : 출석
+12:11PM, September 2, 2015, 김승현 : 출석
+12:11PM, September 2, 2015, ss : 출석
+12:11PM, September 2, 2015, 신영준 : 출석
+12:11PM, September 2, 2015, 이상영 : 출석
+12:11PM, September 2, 2015, 만돌 : 출석
+12:11PM, September 2, 2015, 심정환 : 출석
+12:11PM, September 2, 2015, 허정민 : 출석
+12:11PM, September 2, 2015, 김기남 : 출석
+12:11PM, September 2, 2015, 김원호 : 출석
+12:11PM, September 2, 2015, 오창주 : 출석
+12:11PM, September 2, 2015, 박광규 : 출석
+12:11PM, September 2, 2015, 윤종민 : 출석
+12:12PM, September 2, 2015, 강민경 : 출석
+12:12PM, September 2, 2015, 윤혜진 : 출석!
+12:12PM, September 2, 2015, 신원섭 : 출석
+12:12PM, September 2, 2015, 윤종민 invited 안선영.
+12:12PM, September 2, 2015, 김종준 : 출석
+12:12PM, September 2, 2015, 신우진 : 출석
+12:12PM, September 2, 2015, 민두홍 : 출석
+12:12PM, September 2, 2015, 이승철 : 출석
+12:12PM, September 2, 2015, 희승 : 이름 : 김희승 학번 : 2012182008
+12:12PM, September 2, 2015, 이진수 : 이름 : 이진수
+학번 : 2012180035
+12:12PM, September 2, 2015, 강민경 : 이름 : 강민경 학번 : 2014182001
+12:12PM, September 2, 2015, 김기태 : 이름:김기태    학번: 2012182003
+12:12PM, September 2, 2015, 신영준 : 이름:신영준  학번:2012182017
+12:12PM, September 2, 2015, ss : 이름:김솔 학번:2013184040
+12:12PM, September 2, 2015, 이제선 : 이름:이제선 학번: 2012181030
+12:12PM, September 2, 2015, 이승철 : 이름: 이승철 학번:2010182033
+12:12PM, September 2, 2015, 신우진 : 이름: 신우진 학번:2012182018
+12:13PM, September 2, 2015, 신원섭 : 이름:신원섭 학번:2012182019
+12:13PM, September 2, 2015, 오창주 : 이름:오창주 학번:2012180024
+12:13PM, September 2, 2015, 박상윤 : 이름:박상윤 학번:2014180019
+12:13PM, September 2, 2015, 윤종민 : 이름:윤종민 학번:2013180054
+12:13PM, September 2, 2015, 임동현 : 이름: 임동현 학번: 2010112037
+12:13PM, September 2, 2015, 김종준 : 이름:김종준 학번:2012180011
+12:13PM, September 2, 2015, 박하은 : 출석
+12:13PM, September 2, 2015, 민두홍 : 이름 : 민두홍   학번 : 2012182009
+12:13PM, September 2, 2015, 김재관 : 이름:김재관
+학번:2011182009
+12:13PM, September 2, 2015, 권기춘 : 이름 : 권기춘 학번 : 2014182003
+12:13PM, September 2, 2015, 조학현 : 이름:조학현 학번 :2012181035
+12:13PM, September 2, 2015, 박광규 : 이름:박광규 학번:2012182010
+12:13PM, September 2, 2015, 김대용 : 이름 :김대용 학번: 2011180006
+12:13PM, September 2, 2015, 만돌 : 이름: 김만석. 학번: 2009180003
+12:13PM, September 2, 2015, 허정민 : 이름:허정민 학번:2014180045
+12:13PM, September 2, 2015, 김진근 : 이름 : 김진근 학번 : 2009180010
+12:13PM, September 2, 2015, 전상훈 : 이름:전상훈 학번:2012182034
+12:13PM, September 2, 2015, 윤혜진 : 이름:윤혜진 학번:2014182028
+12:13PM, September 2, 2015, 심정환 : 이름:심정환 학번:2012180021
+12:13PM, September 2, 2015, 이상영 : 이름 : 이상영 학번 : 2012182028
+12:13PM, September 2, 2015, 김기남 : 이름 : 김기남 학번 : 2011182004
+12:13PM, September 2, 2015, 박하은 : 이름 : 박하은 학번 :2014180022
+12:13PM, September 2, 2015, 김승현 : 이름:김승현 학번:2010182051
+12:13PM, September 2, 2015, 김원호 : 이름:김원호. 학번:2012182005
+12:13PM, September 2, 2015, 김은기 : 이름:김은기 학번:2010151009
+12:14PM, September 2, 2015, 정우혁 : 이름 : 정우혁 학번 :2012181034
+12:19PM, September 2, 2015, 동호 : 이름 : 신동호  학번 : 2013180051
+12:20PM, September 2, 2015, 안선영 : 이름 : 안선영 학번 : 2012182057
+
+5:15PM, September 3, 2015
+5:15PM, September 3, 2015, Mr.Lee 대현 invited 김수형.
+
+11:42AM, September 9, 2015
+11:42AM, September 9, 2015, 정우혁 invited 재용.
+11:43AM, September 9, 2015, 정우혁 : ㅋ
+11:43AM, September 9, 2015, 재용 invited 성소윤.
+11:43AM, September 9, 2015, 재용 : .
+3:51PM, September 9, 2015, 김은기 : 교수님 2디겜 A반 김은기 학생입니다. 조를 짠 후 프로젝트를 진행해야하는데 조는 스스로 3명으로 짜면 되는건가요?
+3:52PM, September 9, 2015, you : 잉? 1인 1프로젝트임.
+3:52PM, September 9, 2015, 김은기 : 아 네 그렇군요^^;;
+3:52PM, September 9, 2015, you : 프로젝트는 1인이 진행하는 것임. 팀이 아님.
+3:52PM, September 9, 2015, 김은기 : 감사합니다
+
+6:35PM, September 10, 2015
+6:35PM, September 10, 2015, Mr.Lee 대현 invited 양두현.
+
+8:00AM, September 12, 2015
+8:00AM, September 12, 2015, you : 다들 늦지 않도록 해주세요. 보강 수업
+8:01AM, September 12, 2015, 재용 : 네 알겠습니다
+8:01AM, September 12, 2015, 이진수 : 네 교수님 오후에는 몇시에 수업하시나요?
+8:23AM, September 12, 2015, 오창주 : 네~
+9:58AM, September 12, 2015, you : 오후 1시
+10:01AM, September 12, 2015, 이진수 : 네 감사합니다
+10:02AM, September 12, 2015, you : 오늘 나온다고 했다가 못나오는 학생들은 결석임
+10:03AM, September 12, 2015, 이진수 : 네!
+10:05AM, September 12, 2015, 강민경 : 저 대학병원 예약한거 깜빡하고 손들었었는데
+10:05AM, September 12, 2015, 강민경 : 진단서 끊어가면 될까요ㅠㅠ?
+10:27AM, September 12, 2015, 오창주 : +1
+10:27AM, September 12, 2015, 김은기 : +1
+10:27AM, September 12, 2015, 김수형 : +1
+11:21AM, September 12, 2015, 민두홍 : 알바때문에 못나갈것 같습니다 ㅠ
+11:33AM, September 12, 2015, 신우진 : 저도 알바입니다..죄송합니다
+11:40AM, September 12, 2015, 김대용 : 저도 아르바이트라 못나갈것 같습니다
+11:41AM, September 12, 2015, 윤혜진 : 저도 알바중이라 못갑니다..
+11:49AM, September 12, 2015, 안선영 : 오늘 집안사정때문에 못갈것같습니다..죄송합니다ㅠ
+11:51AM, September 12, 2015, 박하은 : 열시가아니라한시수업을들어도출석인정은되나요?
+11:55AM, September 12, 2015, 김기태 : 출석
+11:55AM, September 12, 2015, 심정환 : 출석
+11:55AM, September 12, 2015, 김수형 : 출석
+11:55AM, September 12, 2015, 오창주 : 출석
+11:55AM, September 12, 2015, 이제선 : 출석
+11:55AM, September 12, 2015, 이상영 : 출석
+11:55AM, September 12, 2015, 박광규 : 출석
+11:55AM, September 12, 2015, 윤종민 : 출석
+11:55AM, September 12, 2015, 김은기 : 출석
+11:55AM, September 12, 2015, 희승 : 출석
+11:55AM, September 12, 2015, 신영준 : 출석
+11:55AM, September 12, 2015, 권기춘 : 출석
+11:55AM, September 12, 2015, 김종준 : 출석
+11:56AM, September 12, 2015, 성소윤 : 출석
+11:56AM, September 12, 2015, 재용 : 출석
+11:56AM, September 12, 2015, 재용 : 17명
+11:56AM, September 12, 2015, 신원섭 : 출석
+11:56AM, September 12, 2015, 임동현 : 출석
+2:52PM, September 12, 2015, 이진수 : 출석
+2:52PM, September 12, 2015, 김기남 : 출석
+2:52PM, September 12, 2015, 이진수 : 오전반 이엿는데 1시에 출석햇습니다
+2:52PM, September 12, 2015, 김재관 : 출석 오전반 입니다 
+2:52PM, September 12, 2015, 김재관 : 김기남 김재관 1시 출석입니다
+2:53PM, September 12, 2015, 박하은 : 오전반인데 1시출석했습니다
+2:53PM, September 12, 2015, 전상훈 : 출석 
+
+9:41AM, September 13, 2015
+9:41AM, September 13, 2015, you : https://youtu.be/lXElZb8rdtU
+
+9:42AM, September 13, 2015, you : 동영상 링크는 프로세싱 중이니까... 처리되는대로 플레이가 될 것입니다.
+10:04AM, September 13, 2015, 만돌 : 잘 보겠습니다!
+10:05AM, September 13, 2015, 이진수 : 네!
+10:42AM, September 13, 2015, you : 이건 야간(3)반 음성 녹음입니다. 비슷한내용이므로, 위의 동영상이 잘 안들리거나 하는 경우 참고하세ㅇ.
+10:42AM, September 13, 2015, 김대용 : 네 감사합니다
+10:42AM, September 13, 2015, you : 2DGP (1).m4a
+10:43AM, September 13, 2015, you : 2DGP(2).m4a
+10:52AM, September 13, 2015, you : 동영상을 보니 순서가 좀 뒤바뀐게 있네요.
+10:53AM, September 13, 2015, you : 내용 따라가면서 적절히 듣기 바랍니다.
+11:02AM, September 13, 2015, 이진수 : 네 감사합니다
+2:01PM, September 13, 2015, 김재관 : 감사합니느
+2:01PM, September 13, 2015, 김재관 : 합니다
+2:28PM, September 13, 2015, 이상영 : 안녕하세요 교수님 어제 오전 10시 수업 끝나고 pico2d가 다운로드가 안된다고 말씀드렸던 학생입니다. 오늘 다시 집에있는 pc로 다운로드를 시도했는데 실패했습니다...
+
+6:13PM, September 14, 2015
+6:13PM, September 14, 2015, you : 아... 이거 내가 확인해야되는데 지금 미국 출장와였는 상태라서
+6:15PM, September 14, 2015, you : 32 비트 지?
+6:16PM, September 14, 2015, you : pico2d-1.0.2015.win32.zip
+6:16PM, September 14, 2015, you : 혹시 이걸로 좀 해볼래??
+6:22PM, September 14, 2015, 이상영 : 아...네 감사합니다!!
+9:52PM, September 14, 2015, 권기춘 : 내일 휴강맞나요?
+
+3:47PM, September 20, 2015
+3:47PM, September 20, 2015, 임동현 left this chatroom.
+7:41PM, September 20, 2015, 신원섭 : 교수님 ppt 원본도 올려야 하나요?
+
+12:24PM, September 21, 2015
+12:24PM, September 21, 2015, you : OK
+6:30PM, September 21, 2015, 권기춘 : 교수님 동영상 ppt 컴퓨터에서 찍어도 되나요?
+6:45PM, September 21, 2015, you : 사람이 나오게 발표를 해야 함.
+6:45PM, September 21, 2015, you : 제시된 대로
+6:46PM, September 21, 2015, 김은기 : 내일 저 예비군이라 모레 발표해야할것같습니다
+6:46PM, September 21, 2015, 김재관 : 교수님 얼굴이랑 같이 나왔따가 피피티만 나와도 되나요? 찍는데 초점이 안잡혀서 자꾸 뿌옇게 나와서요
+6:46PM, September 21, 2015, 김은기 : 제가 첫번째라 혹시몰라 말씀드립니다 -_-;
+6:47PM, September 21, 2015, you : 재관: 다들 문제없이 촬영한 것 같은데? 왜 지?
+6:48PM, September 21, 2015, 김재관 : 다시 촬영하도록 하겠습니다..
+6:55PM, September 21, 2015, 권기춘 : 사람은 상반신만 나와도 되나요?
+6:56PM, September 21, 2015, you : 그래.
+
+12:52PM, September 22, 2015
+12:52PM, September 22, 2015, you : 동영상 플레이가 잘 되는ㅈ 미리 점검바람
+12:52PM, September 22, 2015, you : 퍼블릭으로 해서 다 볼 수 있게 설정 있지 말고
+12:53PM, September 22, 2015, 오창주 : 네
+12:54PM, September 22, 2015, 이진수 : 네
+12:59PM, September 22, 2015, 김재관 : 네
+12:59PM, September 22, 2015, 재용 : 알겠습니다
+1:00PM, September 22, 2015, 성소윤 : 네
+1:08PM, September 22, 2015, 박광규 : 네
+1:09PM, September 22, 2015, 민두홍 : 네
+1:09PM, September 22, 2015, 이승철 : 교수님 홈페이지에서 kpustudent로 로그인이 되지 않습니다.
+1:10PM, September 22, 2015, 이제선 : 넹
+1:23PM, September 22, 2015, you : 로그인이 안된단구?
+1:23PM, September 22, 2015, you : 다른 친구들은 어떠게 올렸는지? 그럼?
+1:23PM, September 22, 2015, you : 누가 뭐 건드린거 아닌가?
+1:23PM, September 22, 2015, you : 미리미리 올려놓아야 함
+1:25PM, September 22, 2015, you : 박상윤 학생이
+1:25PM, September 22, 2015, you : 정보를 바꾸어놓았네?
+1:25PM, September 22, 2015, you : 이걸바꾸면 어떻하냐 흐
+1:26PM, September 22, 2015, you : 이제 될꺼야
+1:26PM, September 22, 2015, you : 로그인
+1:26PM, September 22, 2015, 박상윤 : 아
+1:26PM, September 22, 2015, 박상윤 : 죄송해요
+1:26PM, September 22, 2015, 박상윤 : ㅠㅠㅠ
+1:26PM, September 22, 2015, 박상윤 : 애고 할줄몰라서 이상한거건들였내요 죄송하빈다
+1:27PM, September 22, 2015, 정우혁 invited 임동현.
+1:27PM, September 22, 2015, 정우혁 : 8
+1:29PM, September 22, 2015, 이승철 : 감사합니다.
+1:33PM, September 22, 2015, 동호 invited 성재.
+1:33PM, September 22, 2015, 동호 : ㅇ
+3:22PM, September 22, 2015, 오창주 : https://github.com/dhckd7247/2DGP
+3:22PM, September 22, 2015, 김수형 : https://github.com/900903ksh/BE-AWESOME-TODAY
+3:22PM, September 22, 2015, 김재관 : https://github.com/kjk3510/kjk-GitHub
+3:22PM, September 22, 2015, 신영준 : https://github.com/xmfkdlrjs4/2dgameprogramming
+3:22PM, September 22, 2015, 심정환 : https://github.com/batherit/2012180021-
+3:23PM, September 22, 2015, 희승 : https://github.com/khs300kr
+3:23PM, September 22, 2015, 김원호 : https://github.com/kwhk94/kimwonho
+3:23PM, September 22, 2015, 윤종민 : https://github.com/yunjongmin
+3:23PM, September 22, 2015, 김종준 : https://github.com/s2t2s2/2dgameprogramming
+3:23PM, September 22, 2015, 만돌 : https://github.com/Kim-Manseok/2D_Game_Programming
+3:23PM, September 22, 2015, 김대용 : https://github.com/mado33
+3:23PM, September 22, 2015, 이진수 : https://github.com/leejinsoo92
+3:24PM, September 22, 2015, 이제선 : https://github.com/
+3:24PM, September 22, 2015, 김기남 : https://github.com/kkikim
+3:25PM, September 22, 2015, 김기태 : https://github.com/KIM-KI-TAE
+3:25PM, September 22, 2015, 민두홍 : https://github.com/alsenjd/2d
+3:25PM, September 22, 2015, 신우진 : https://github.com/swj3739
+3:25PM, September 22, 2015, 정우혁 : https://github.com/dngur807
+3:25PM, September 22, 2015, 김진근 : https://github.com/jingle23/2D
+3:25PM, September 22, 2015, 신원섭 : https://github.com/wonsub/2d_pg.git
+3:27PM, September 22, 2015, 박광규 : https://github.com/ParkGwangGyu/2D-Game
+3:27PM, September 22, 2015, 조학현 : https://github.com/SpaceKingJo/qweqwe
+3:29PM, September 22, 2015, 김은기 : https://github.com/BigDataIsVeryImportantInAI/MyRoom
+3:39PM, September 22, 2015, 동호 : https://github.com/DongHoShin?tab=repositories
+3:41PM, September 22, 2015, 강민경 : 강민경 토요일(9.12)출석
+3:41PM, September 22, 2015, 이상영 : https://github.com/lsy12012/Sang-young-Lee
+3:44PM, September 22, 2015, 박하은 : https://github.com/ParkHaEun
+
+11:25AM, September 23, 2015
+11:25AM, September 23, 2015, 김승현 : https://github.com/bluesky11k/2015_2D
+12:07PM, September 23, 2015, 권기춘 : https://github.com/kichunkwon/2D_GAME_PROGRAMING.git
+12:09PM, September 23, 2015, 윤혜진 : https://github.com/Yune0127
+12:12PM, September 23, 2015, 성재 : https://github.com/fistj
+12:20PM, September 23, 2015, 이승철 : https://github.com/onuvy6/2DGP_Project
+12:30PM, September 23, 2015, 전상훈 : https://github.com/wjstkdgns93/2dgp-_gp.git
+9:58PM, September 23, 2015, 권기춘 : <Photo>
+9:59PM, September 23, 2015, 권기춘 : 업로드 맥스라고 나오면서 파일을 올릴수가 없는 상태입니다 
+10:00PM, September 23, 2015, 정우혁 : 위에 upload 위에 select files 눌러보세용
+10:35PM, September 23, 2015, 권기춘 : 확인해서 올렸습니다
+텍스트인줄알고 지나쳤었네요
+
+5:38PM, September 24, 2015
+5:38PM, September 24, 2015, you : git-hub는. 미리 만든 사람에게만 해당됩니다.
+
+1:23PM, September 30, 2015
+1:23PM, September 30, 2015, 김은기 : 교수님 질문이있습니다 제가 만들 게임 리소스중에 ANM 확장자인 파일이 있는데 이건 sdl에서 불러올려면 어떻게해야하나요
+1:27PM, September 30, 2015, you : ANM 확장자에 대해서는 SDL에서 따로 처리하는 ㅜ분이 없기 때문에,
+1:27PM, September 30, 2015, you : 자체적으로 loader 를 만들어어 함.
+1:30PM, September 30, 2015, 김은기 : 넵 감사합니다
+
+3:31PM, October 1, 2015
+3:31PM, October 1, 2015, 김은기 : 교수님 오는 토요일날 수업하나요?
+4:46PM, October 1, 2015, you : 오늘 야간반 의견 들은 후 공지하겠습니다
+11:39PM, October 1, 2015, you : 이번주 보강 없습니다. 
+11:40PM, October 1, 2015, 재용 : 네 알겠습니다
+11:41PM, October 1, 2015, 오창주 : 네
+11:42PM, October 1, 2015, 신영준 : 네
+11:44PM, October 1, 2015, 희승 : 넵! 
+11:44PM, October 1, 2015, 김은기 : 영어단어만 엄청 외우는거임
+11:45PM, October 1, 2015, 김은기 : 죄송합니다 (_ _)
+11:45PM, October 1, 2015, 김기남 : 네
+11:45PM, October 1, 2015, 김대용 : 네
+11:45PM, October 1, 2015, 윤종민 : 네~
+11:45PM, October 1, 2015, 정우혁 : 네~~
+11:46PM, October 1, 2015, 이승철 : 네
+11:49PM, October 1, 2015, 김재관 : 네 감사합니다
+
+12:17AM, October 2, 2015
+12:17AM, October 2, 2015, 민두홍 : 네
+12:17AM, October 2, 2015, 이제선 : 네
+12:19AM, October 2, 2015, 김승현 : 네~
+12:38AM, October 2, 2015, 전상훈 : 네~
+12:40AM, October 2, 2015, 심정환 : 네
+12:41AM, October 2, 2015, 안선영 : 넵
+12:51AM, October 2, 2015, 김원호 : 네
+1:49AM, October 2, 2015, 박광규 : 네
+2:11AM, October 2, 2015, 만돌 : 옙
+7:04AM, October 2, 2015, 신원섭 : 네
+9:15AM, October 2, 2015, 김종준 : 네
+10:49AM, October 2, 2015, you : 한글날 보강 수업을 하고자 합니다. 안되는 사람 있는지요? 지금 바로 답변주기 바람.
+10:50AM, October 2, 2015, you : 오후 1시-3시 한글날 10월 9일 예정.
+10:58AM, October 2, 2015, 정우혁 : 저 한글날 중요행사가 있어서 안됩니다 .
+2:30PM, October 2, 2015, 재용 : 저도 사정이 있어서 힘들 것 같습니다
+3:15PM, October 2, 2015, you : 2명 외에는 다 가능한가요?
+3:15PM, October 2, 2015, 이승철 : 참여가능합니다!
+3:15PM, October 2, 2015, 김기남 : 네
+3:15PM, October 2, 2015, 희승 : 네 가능합니다
+3:16PM, October 2, 2015, you : 우혁, 재용: 혹시 3시-5시는 되니? 그때 야간반 보강할 거거든?
+3:16PM, October 2, 2015, 김재관 : 가능합니다
+3:16PM, October 2, 2015, 정우혁 : 저 금요일 자체가 안됩니다 ㅜ
+3:16PM, October 2, 2015, 정우혁 : 토요일은 가능한데용
+3:17PM, October 2, 2015, 이진수 : 저도 그날 행사가 있어서 못갈꺼 같습니다..
+3:17PM, October 2, 2015, 신우진 : 저 금요일 공강이라 
+알바합니다.. 지금도 알바중에  일하느라 늦게
+답장드립니다..
+3:18PM, October 2, 2015, 만돌 : 제가 금~일 알바라 참섯 못할 거 같습니다 ㅠㅜ
+3:18PM, October 2, 2015, 동호 : 저 알바 대타 해주기로해서 참석 못할거 같습니다..
+3:19PM, October 2, 2015, 박광규 : 네 가능합니다
+3:20PM, October 2, 2015, 심정환 : 가능합니다
+3:20PM, October 2, 2015, 성재 : 토요일가능합니다
+3:21PM, October 2, 2015, 박하은 : 가능합니다!
+3:23PM, October 2, 2015, 박상윤 : 네 토요일 가능합니다!
+3:23PM, October 2, 2015, 동호 : 금요일아닌가요?
+3:23PM, October 2, 2015, 박상윤 : 아
+3:23PM, October 2, 2015, 박상윤 : 금요일가능합니다
+3:26PM, October 2, 2015, 이제선 : 가능합니다
+3:27PM, October 2, 2015, 성재 : 한글날이 금요일이라면 가능합니다..
+3:27PM, October 2, 2015, 김대용 : 3시에 끝나면 가능합니다
+3:40PM, October 2, 2015, 김은기 : 네
+4:00PM, October 2, 2015, 민두홍 : 저도 알바가 있습니다
+4:14PM, October 2, 2015, 이상영 : 가능합니다
+4:27PM, October 2, 2015, 김진근 : 네 가능합니다
+
+6:45PM, October 5, 2015
+6:45PM, October 5, 2015, 김은기 : 교수님
+6:46PM, October 5, 2015, 김은기 : pico2d
+def draw(self, x, y, w=None, h=None):
+        """Draw image to back buffer"""
+        if w == None and h == None:
+            w,h = self.w, self.h
+        rect = to_sdl_rect(x-w/2, y-h/2, w, h)
+        SDL_RenderCopy(renderer, self.texture, None, rect)
+ 여기서 rect = to_sdl_rect(x-w/2, y-h/2, w, h) 이부분 변경하면 피봇 변경 가능한가요
+7:10PM, October 5, 2015, you : 은기: 라이브러리를 고치는 것 보다는.... 너의 코드에서 하나 더 함수를 만들어서 사용하면 어떨까?
+7:17PM, October 5, 2015, 김은기 : 감사합니다
+
+2:35PM, October 6, 2015
+2:35PM, October 6, 2015, you : <Photo>
+2:56PM, October 6, 2015, 이승철 : +1
+2:57PM, October 6, 2015, 전상훈 : +1
+2:58PM, October 6, 2015, 김은기 : +1
+2:59PM, October 6, 2015, 박상윤 : +1
+3:01PM, October 6, 2015, 조학현 : +1
+3:02PM, October 6, 2015, 전상훈 : https://youtu.be/1a_GLnBp7Xs
+3:02PM, October 6, 2015, 희승 : +1
+3:03PM, October 6, 2015, 이승철 : http://youtu.be/Nns7UPU_OBI
+3:04PM, October 6, 2015, 오창주 : +1
+3:05PM, October 6, 2015, 박상윤 : https://www.youtube.com/watch?v=JQpdP4tVfew&feature=youtu.be
+3:06PM, October 6, 2015, 재용 : +1
+3:07PM, October 6, 2015, 권기춘 : +1
+3:07PM, October 6, 2015, 신원섭 : +1
+3:08PM, October 6, 2015, 신원섭 : https://youtu.be/w9LDaUvHMjA
+3:10PM, October 6, 2015, 김원호 : +1
+3:10PM, October 6, 2015, 김원호 : https://youtu.be/G-dLoGrH32U
+3:10PM, October 6, 2015, 오창주 : https://www.youtube.com/watch?v=CjrHa59OiaU
+3:10PM, October 6, 2015, 안선영 : https://youtu.be/zr0VGQaXUK0
+3:11PM, October 6, 2015, 안선영 : +1
+3:11PM, October 6, 2015, 성소윤 : +1
+3:12PM, October 6, 2015, 윤혜진 : +1
+3:12PM, October 6, 2015, 만돌 : +1
+3:12PM, October 6, 2015, 윤종민 : https://www.youtube.com/watch?v=A6qvBQjeblA&feature=youtu.be
+3:12PM, October 6, 2015, 윤종민 : +1
+3:13PM, October 6, 2015, 김은기 : YouTube에서 '2D게임 실습1' 보기 - https://youtu.be/JXWskzporeo
+3:13PM, October 6, 2015, 허정민 : +1
+3:15PM, October 6, 2015, 박하은 : ＋１
+3:15PM, October 6, 2015, 재용 : YouTube에서 '2DGP 실습3' 보기 - https://youtu.be/Wqvg_9tGalc
+3:16PM, October 6, 2015, 만돌 : YouTube에서 '실습 과제1' 보기 - https://youtu.be/t-rpMRu45D8
+3:16PM, October 6, 2015, 윤혜진 : YouTube에서 '2d 실습1' 보기 - https://youtu.be/nKRevZWRSso
+3:16PM, October 6, 2015, 이제선 : +1
+3:17PM, October 6, 2015, 희승 : https://www.youtube.com/watch?v=t9tIBmNeIJ0&feature=youtu.be
+3:17PM, October 6, 2015, 김기남 : https://youtu.be/tIXXsZVdM88
+3:19PM, October 6, 2015, 민두홍 : https://www.youtube.com/watch?v=D_Vj6YBVXr0
+3:19PM, October 6, 2015, 민두홍 : +1
+3:24PM, October 6, 2015, 이진수 : YouTube에서 '2012180035 이진수 실습' 보기 - https://youtu.be/sO0WlnrmujU
+3:24PM, October 6, 2015, 성소윤 : YouTube에서 '2DGP 소윤 실습3' 보기 - https://youtu.be/DeaKVB1PyAQ
+3:24PM, October 6, 2015, 이진수 : +1
+3:25PM, October 6, 2015, 권기춘 : <Video>
+3:25PM, October 6, 2015, 허정민 : YouTube에서 '2D 프로그래밍 2014180045 허정민 10/06 실습' 보기 - https://youtu.be/t0fdABSb330
+3:30PM, October 6, 2015, 박하은 : https://youtu.be/vnEv5AgnnmE
+8:11PM, October 6, 2015, 조학현 : https://youtu.be/wdxwiy7IG-c
+8:31PM, October 6, 2015, 이제선 : https://www.youtube.com/watch?v=k_AYt-CXy1g&feature=youtu.be
+8:34PM, October 6, 2015, 김수형 : https://www.youtube.com/watch?v=0okuYM7cBU0
+8:57PM, October 6, 2015, 심정환 : https://m.youtube.com/watch?v=qjFcb3nWOkY
+9:08PM, October 6, 2015, 김기태 : YouTube에서 '2D게임프로그래밍 20151006 실습' 보기 - https://youtu.be/8XcLbFviwGE
+9:30PM, October 6, 2015, 이상영 : https://m.youtube.com/watch?v=CkI8owpKtfo
+10:28PM, October 6, 2015, 신우진 : YouTube에서 '투디 실습 2012182018 신우진' 보기 - https://youtu.be/jb6l-JSYgxE
+10:34PM, October 6, 2015, 신영준 : https://youtu.be/DhPEEgp9eh4
+10:49PM, October 6, 2015, 박광규 : https://youtu.be/SmSemQd45aM
+
+3:57AM, October 7, 2015
+3:57AM, October 7, 2015, 성재 : https://youtu.be/MDxVsLEyUq8
+4:04AM, October 7, 2015, 김재관 : https://youtu.be/4YOEjvxEEGA
+9:02AM, October 7, 2015, 김재관 : https://youtu.be/4YOEjvxEEGA
+10:30AM, October 7, 2015, 김은기 : +1
+12:12PM, October 7, 2015, 재용 : +1
+12:13PM, October 7, 2015, 임동현 : +1
+12:14PM, October 7, 2015, 이승철 : +1
+12:17PM, October 7, 2015, 성소윤 : +1
+12:19PM, October 7, 2015, 권기춘 : +1
+12:21PM, October 7, 2015, 김원호 : +1
+12:22PM, October 7, 2015, 신영준 : +1
+12:24PM, October 7, 2015, 허정민 : +1
+12:25PM, October 7, 2015, 권기춘 : https://www.youtube.com/watch?v=ZfPIP09kke0
+12:25PM, October 7, 2015, 윤종민 : https://www.youtube.com/watch?v=2L-HbwhciM4&feature=youtu.be
+12:25PM, October 7, 2015, 윤종민 : +1
+12:26PM, October 7, 2015, 이승철 : http://youtu.be/7VjoAIK21MM
+12:27PM, October 7, 2015, 재용 : YouTube에서 '2DGP 실습 4' 보기 - https://youtu.be/TTV2RsipZUY
+12:38PM, October 7, 2015, 김은기 : YouTube에서 '2D 게임 실습 2' 보기 - https://youtu.be/_ZdJFDZ194Q
+12:44PM, October 7, 2015, 박상윤 : +1
+12:47PM, October 7, 2015, 박상윤 : https://www.youtube.com/watch?v=QF4_Uuoh4F0&feature=youtu.be
+12:49PM, October 7, 2015, 김원호 : https://www.youtube.com/watch?v=_knuDHUchpM&feature=youtu.be
+12:55PM, October 7, 2015, 신영준 : http://youtu.be/SqnmGhdlHJU
+1:14PM, October 7, 2015, 임동현 : https://www.youtube.com/watch?v=ZpZyurzO0PM
+1:15PM, October 7, 2015, 임동현 : https://www.youtube.com/watch?v=ZpZyurzO0PM
+1:20PM, October 7, 2015, 성소윤 : YouTube에서 '성소윤 실습4' 보기 - https://youtu.be/zsz7CjAgWVg
+1:23PM, October 7, 2015, 허정민 : https://youtu.be/X_vnQ4Jvp3E
+1:49PM, October 7, 2015, 민두홍 : https://www.youtube.com/watch?v=EZuceY4wtEk
+1:50PM, October 7, 2015, 신원섭 : https://youtu.be/6F0-ovRe1dA
+1:59PM, October 7, 2015, 심정환 : YouTube에서 '투디 실습 2012180021  심정환' 보기 - https://youtu.be/PBQkS0yNWHs
+2:04PM, October 7, 2015, 신원섭 : 교수님
+2:04PM, October 7, 2015, 신원섭 : 파이썬에서
+2:04PM, October 7, 2015, 신원섭 : 삼항 연산자 못쓰나요?
+2:29PM, October 7, 2015, 윤혜진 : YouTube에서 '10월 7일 2d실습' 보기 - https://youtu.be/b3QGz-BIhLE
+2:47PM, October 7, 2015, 오창주 : https://www.youtube.com/watch?v=fjDZukMUdS0
+2:53PM, October 7, 2015, 김수형 : https://www.youtube.com/watch?v=iZ3T9LFkBgI
+6:39PM, October 7, 2015, you : 9일 보강 수업은 하지 않기로 했습니다. 안된다는 친구들이 있어 진행하는 것이 어려울 것 같습니다.
+6:41PM, October 7, 2015, 김대용 : 그럼 언제쯤 하게 되나요??
+6:45PM, October 7, 2015, 희승 : 동영상강의 올려주시는걸로 알고있습니다!
+10:28PM, October 7, 2015, 박광규 : https://youtu.be/2uZsXiWsY3E
+10:37PM, October 7, 2015, 김기남 : https://youtu.be/NMtpdiqUvjs
+10:41PM, October 7, 2015, 이제선 : https://www.youtube.com/watch?v=s72cAI6_5BE&feature=youtu.be
+11:03PM, October 7, 2015, 신우진 : YouTube에서 '실습2 2012182018 신우진' 보기 - https://youtu.be/XQRi7CVNJG4
+
+1:31AM, October 8, 2015
+1:31AM, October 8, 2015, 조학현 : https://youtu.be/9p5zjgiJWWY
+5:01AM, October 8, 2015, 성재 : https://youtu.be/ccMF1_cZJxU
+2:49PM, October 8, 2015, 김승현 : 교수님
+2:50PM, October 8, 2015, 김승현 : 수업시간에 한 실습들은 수업시간에 다 못했어도 수업이 끝난후 해서라도 유투브 올려야 하나요?
+2:58PM, October 8, 2015, 임동현 : 교수님. pycharm에서 open_canvas()를 했을 때 close_canvas()를 해주지 않았는데도 캔버스가 닫힙니다.
+2:59PM, October 8, 2015, 임동현 : IDLE에서는 이렇지 않았는데요. 닫히지 않게 하려면 따로 설계를 해야 하나요?
+3:16PM, October 8, 2015, you : 동현: 그 증상은 잘 모르겠다. 수업시간에 좀 확인해봐야 할 듯 ?
+3:18PM, October 8, 2015, 임동현 : 네 알겠습니다.
+
+9:36AM, October 9, 2015
+9:36AM, October 9, 2015, you : 실습 단위로 짤랐으니, 파워포인트 자료 보면서 들으면 되겠습니다.
+9:37AM, October 9, 2015, you : 다음 주 화요일 수업은 이 강의를 들은 것을 가정하고 진행하므로, 꼭 듣고 오기 바랍니다.
+9:37AM, October 9, 2015, you : LEC05_음성강의.zip
+9:37AM, October 9, 2015, 이진수 : 네
+9:37AM, October 9, 2015, 재용 : 알겠습니다!
+9:39AM, October 9, 2015, 성재 : 네
+9:39AM, October 9, 2015, 전상훈 : 네
+9:41AM, October 9, 2015, 김기태 : 네
+9:48AM, October 9, 2015, 김승현 : 네
+감사합니다
+10:59AM, October 9, 2015, 박광규 : 네
+11:02AM, October 9, 2015, 김재관 : 감사합니다
+11:18AM, October 9, 2015, 이승철 : 감사합니다
+12:58PM, October 9, 2015, 김기남 : 네
+1:10PM, October 9, 2015, 심정환 : 넵
+1:38PM, October 9, 2015, 민두홍 : 네
