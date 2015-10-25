@@ -1,6 +1,6 @@
 ﻿KakaoTalk Chats 2D 게임 프로그래밍 주 (A) 1 반
  (42)
-Date Saved : 4:51PM, October 9, 2015
+Date Saved : 7:40PM, October 10, 2015
 
 
 12:09PM, September 2, 2015
@@ -518,7 +518,5 @@ Error: 신우진은 .user 정보를 제대로 작성하지 않음.
 Error: 박하은은 .user 정보를 제대로 작성하지 않음.
 Error: 권기춘은 .user 정보를 제대로 작성하지 않음.
 3:03PM, October 10, 2015, you : 중간에 쉼표르 빼먹었네.
-3:06PM, October 10, 2015, 김기남 : .user 김기남, 2011182004
-3:46PM, October 10, 2015, 신우진 : .user 신우진,2012182018
-4:00PM, October 10, 2015, 박하은 : .user 박하은, 2014180022
-4:58PM, October 10, 2015, 권기춘 : .user 권기춘, 2014182003
+
+
