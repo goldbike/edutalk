@@ -13,3 +13,70 @@
 
 3. attendance
 
+
+
+
+LectureDB.py
+
+basic DB access operations:
+    insertStudent
+    updateStudent
+    studentExists
+
+
+
+
+
+======================================
+DEVELOPMENT ROADMAP
+
+
+
+
+1. student information
+
+
+    SOURCE:
+        createAttendancePage.py
+        buildStudentDB.py
+
+    GIVEN:
+
+        * excel file
+        * student information in chat file
+
+            .user 이대현, 89418022
+
+
+    RESULT:
+        student information db named 'studentInfo'
+
+
+
+
+
+2. Attendance check
+
+
+grammar
+
+
+GIVEN:
+
+
+
+
+lecture data
+
+.lecture @0342
+.lecture                  ==> this get the data from the chat info
+
+
+RESULT:
+
+data base named 'attendance'
+
+
+
+
+==>
