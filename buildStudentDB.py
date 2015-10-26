@@ -62,10 +62,10 @@ def buildStudentDB():
     # read katalk chat, extract matching katalk ID, name, no, update student info DB
     for katalkID, name, no in readKatalkUserInfo(chatFilePath):
         if LectureDB.findStudentInfo(no=no) is None:
-            print('Error: invalid student no ', no, ' - does not exist')
+            print('Error:', katalkID + '의 .user 정보작성에 오류가 있음. - 출석부에 학번', no, ' 존재하지 않음.')
             continue
         if LectureDB.findStudentInfo(name=name) is None:
-            print('Error: invalid student name ' , name, ' - does not exist')
+            print('Error:', katalkID + '의 .user 정보작성에 오류가 있음. - 출석부에 이름', name, ' 존재하지 않음.')
             continue
         LectureDB.updateStudentInfo(no, name, katalkID)
         # print(no, name, katalkID)
@@ -76,7 +76,7 @@ def buildStudentDB():
         info = LectureDB.findStudentInfo(no=no)
         # print(info)
         if info['katalkID'] is None:
-            print('Error: ' + info['name'] + ' .user 정보를 제대로 작성하지 않음.')
+            print('Error: ' , info['name']+'의 .user 정보작성에 오류가 있음.')
 
 
 

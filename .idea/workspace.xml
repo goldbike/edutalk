@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1def804-eb5a-4150-a7a7-4b14917cbe21" name="Default" comment="Reformat">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reformatChatFile.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lecture_2015_02_2DGameProgramming.db" afterPath="$PROJECT_DIR$/lecture_2015_02_2DGameProgramming.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DATA/chat/KakaoTalkChats.txt" afterPath="$PROJECT_DIR$/DATA/chat/KakaoTalkChats.txt" />
+    <list default="true" id="c1def804-eb5a-4150-a7a7-4b14917cbe21" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildStudentDB.py" afterPath="$PROJECT_DIR$/buildStudentDB.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common.py" afterPath="$PROJECT_DIR$/common.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diary.txt" afterPath="$PROJECT_DIR$/diary.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="edutalk.iws" />
@@ -31,9 +25,9 @@
     <favorites_list name="edutalk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6101833">
+    <splitter split-orientation="horizontal" split-proportion="0.6476578">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.6490288">
+        <splitter split-orientation="horizontal" split-proportion="0.5665615">
           <split-first>
             <leaf>
               <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
@@ -49,8 +43,8 @@
               <file leaf-file-name="buildStudentDB.py" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/buildStudentDB.py">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.4820684">
-                      <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+                    <state vertical-scroll-proportion="0.5967597">
+                      <caret line="67" column="72" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
                       <folding />
                     </state>
                   </provider>
@@ -116,21 +110,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="diary.txt" pinned="false" current-in-tab="true">
+          <file leaf-file-name="diary.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/diary.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.47372812">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="KakaoTalkChats.txt" pinned="false" current-in-tab="false">
+          <file leaf-file-name="KakaoTalkChats.txt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/DATA/chat/KakaoTalkChats.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-14.166667">
-                  <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+                <state vertical-scroll-proportion="0.33302498">
+                  <caret line="451" column="74" selection-start-line="451" selection-start-column="71" selection-end-line="451" selection-end-column="74" />
                   <folding />
                 </state>
               </provider>
@@ -160,8 +154,8 @@
         <option value="$PROJECT_DIR$/common.py" />
         <option value="$PROJECT_DIR$/DATA/chat/KakaoTalkChats.txt" />
         <option value="$PROJECT_DIR$/trimChatFile.py" />
-        <option value="$PROJECT_DIR$/buildStudentDB.py" />
         <option value="$PROJECT_DIR$/diary.txt" />
+        <option value="$PROJECT_DIR$/buildStudentDB.py" />
       </list>
     </option>
   </component>
@@ -516,12 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1445780533132</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implemented reformatChatFile  so that '\n' is erased in the chat file">
+      <created>1445825115802</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1445825115802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2896" height="1816" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14100769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -529,8 +529,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4065282" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27121663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32344213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27121663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32344213" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -558,7 +558,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1. first write of diary for development log&#10;2. extract id, no, katalk ID from excel, and chat file&#10;3. build studentInfo database db['studentInfo'] &#10;" />
     <MESSAGE value="added KakaoTalkChats.txt probably having only CR end?" />
-    <option name="LAST_COMMIT_MESSAGE" value="added KakaoTalkChats.txt probably having only CR end?" />
+    <MESSAGE value="implemented reformatChatFile  so that '\n' is erased in the chat file" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented reformatChatFile  so that '\n' is erased in the chat file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -666,14 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DATA/chat/KakaoTalkChats.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.166667">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tmp.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -690,17 +683,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/buildStudentDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4820684">
-          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/diary.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47372812">
+        <state vertical-scroll-proportion="0.0">
           <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding />
         </state>
@@ -718,6 +703,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/chat/KakaoTalkChats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33302498">
+          <caret line="451" column="74" selection-start-line="451" selection-start-column="71" selection-end-line="451" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildStudentDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5967597">
+          <caret line="67" column="72" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
           <folding />
         </state>
       </provider>
