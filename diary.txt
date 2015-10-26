@@ -23,6 +23,26 @@ basic DB access operations:
     updateStudent
     studentExists
 
+=====================================
+FINDINGS:
+
+    KakaoTackChats.txt - file by extracting talk data fro kakaotalk chat room
+
+    heading
+        b'\xef\xbb\xbfKakaoTalk Chats 2D \xea\xb2\x8c\xec\x9e\x84 \xed\x94\x84\xeb\xa1\x9c\xea\xb7\xb8\xeb\x9e\x98\xeb\xb0\x8d \xec\xa3\xbc (A) 1 \xeb\xb0\x98\n'
+        the first bom mark says UTF-8 ( https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%ED%8A%B8_%EC%88%9C%EC%84%9C_%ED%91%9C%EC%8B%9D )
+
+    The file use b'\n' to represent newline in a single talk. --> we need to handle this
+    We should not use 'open('file.txt', 'r'), because it interprets '\n' as normal new line
+
+    Python3 unicode guide ( https://docs.python.org/3/howto/unicode.html )
+
+
+    NOTE: the chat file should be trimmed as no single '\n' exists. if you handle the chat file before trimming,
+      parsing goes wrong. trim first !
+
+    reformatChatFile.py : erase '\n' in the chat file
+
 
 
 

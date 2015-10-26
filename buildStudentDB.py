@@ -39,7 +39,7 @@ def readExcelStudentInfo(fname):
 
 def readKatalkUserInfo(fname):
     for line in common.feedLine(fname):
-        print(line)
+        # print(line)
         result = katalkParser.parseLine(line)
         if 'TALK_LINE' == result[0]:
             #print(result)
@@ -62,10 +62,10 @@ def buildStudentDB():
     # read katalk chat, extract matching katalk ID, name, no, update student info DB
     for katalkID, name, no in readKatalkUserInfo(chatFilePath):
         if LectureDB.findStudentInfo(no=no) is None:
-            print('Error: invalid student no - does not exist')
+            print('Error: invalid student no ', no, ' - does not exist')
             continue
         if LectureDB.findStudentInfo(name=name) is None:
-            print('Error: invalid student name - does not exist')
+            print('Error: invalid student name ' , name, ' - does not exist')
             continue
         LectureDB.updateStudentInfo(no, name, katalkID)
         # print(no, name, katalkID)

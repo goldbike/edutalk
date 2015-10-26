@@ -55,6 +55,7 @@ def feedLine(fname):
         for line in f:
             if line.endswith(b'\r\n'):
                 final_line = final_line + line
+                # strip b'\n' if exists
                 yield final_line.strip(b'\n').decode('utf-8-sig')
                 #print(final_line.decode('utf-8-sig'))
                 final_line = b''
@@ -67,18 +68,23 @@ def feedLine(fname):
                 final_line = b''
 
 
-def createLectureDB():
-    DBpath = DBfolder + lectureDB + '.db'
 
-    # for test, erase current DB
-    if os.path.isfile(DBpath):
-        os.remove(DBpath)
 
-    db = dataset.connect('sqlite:///' + DBpath)
-    #db = dataset.connect('sqlite:///:memory:')
+def testFeedLine():
+    for line in feedLine(katalkFileName):
+        print(line)
+    pass
 
-    # annotate basic information
-    tag = dict(author='Dae-Hyun Lee', time=time.asctime(), year=year, semester=semester, lectureName=lectureName, lectureNameKorean=lectureNameKorean)
-    db['dbInfo'].upsert(tag, ['author'])
+def test1():
+    with open(katalkFileName, 'rb') as f:
+        for line in f:
+            print(line)
 
-    return db
+
+
+def main():
+    test1()
+
+
+if __name__ == "__main__":
+    main()
